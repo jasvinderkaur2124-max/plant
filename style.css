@@ -82,7 +82,7 @@ header {
 }
 
 .banner{
-background: url(image/p1.webp);
+background: url(p1.webp);
 background-size: cover;
 position: relative;
 width: 100%;
@@ -180,7 +180,7 @@ section.banner2 p {
 .banner2 {
        width: 100%;
     float: left;
-    background-image: url(image/4.webp);
+    background-image: url(4.webp);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -278,7 +278,7 @@ p.para {
     width: 100%;
 }
 .banner3{
-background: url(image/13.webp);
+background: url(13.webp);
 
 background-size: cover;
 position: relative;
@@ -344,7 +344,7 @@ p.para2 {
     padding-left: 24px;
 }
 .bannerr{
-background: url(image/4.webp);
+background: url(4.webp);
 background-size: cover;
 position: relative;
 width: 100%;
@@ -361,7 +361,7 @@ height: 279px;
 
 }
 .bannerrr{
-background: url(image/4.webp);
+background: url(4.webp);
 background-size: cover;
 position: relative;
 width: 100%;
@@ -416,7 +416,7 @@ section.sec3 h3 {
     padding-top: 26px;
 }
 .banner4{
-background: url(image/k6.webp);
+background: url(k6.webp);
 background-size: cover;
 position: relative;
 width: 100%;
@@ -623,7 +623,7 @@ ul .look {
 .project {
     width: 100%;
     float: left;
-    background-image: url(image/4.webp);
+    background-image: url(4.webp);
 
     height: 300px;
     background-position: center;
@@ -716,7 +716,7 @@ a {
 .madhusudan-pal {
     width: 100%;
     float: left;
-    background-image: url(image/4.webp);
+    background-image: url(4.webp);
     background-position: center;
     position: relative;
     background-size: cover;
@@ -1939,4 +1939,5 @@ h4 a {
 
     color: black;
     text-decoration: none;
+
 }
